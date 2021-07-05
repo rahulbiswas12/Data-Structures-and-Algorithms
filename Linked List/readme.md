@@ -1,3 +1,3 @@
-#Linked List
+# LinkedList
 
 https://www.javatpoint.com/java-linkedlist
